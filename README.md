@@ -1,5 +1,8 @@
 # Wikipedia Search
-A fast, multi threaded indexer and search engine for Wikipedia.
+
+A fast, multi-threaded indexer and search engine for Wikipedia.
+
+**Repository:** [github.com/diabloque/Wikipedia-Search](https://github.com/diabloque/Wikipedia-Search)
 
 ## Usage
 
